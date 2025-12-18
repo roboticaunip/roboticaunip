@@ -53,7 +53,7 @@ Future extensions may involve:
 
 The repository is organized following **ROS 2 and software engineering best practices**:
 
-```text
+
 unipdroidians/
 ├── src/        # ROS 2 nodes, drivers, control and perception modules
 ├── launch/     # ROS 2 launch files (navigation, SLAM, perception)
@@ -62,7 +62,7 @@ unipdroidians/
 ├── imagens/    # Figures, diagrams, robot photos, and team images
 └── README.md   # Project overview and documentation
 
-System Requirements
+## System Requirements
 
     Ubuntu 22.04 LTS
 
@@ -75,7 +75,7 @@ System Requirements
     Hardware platform for differential-drive robots
 
 All dependencies are specified within individual ROS 2 packages.
-Methodology and Technical Approach
+## Methodology and Technical Approach
 
 The project adopts a modular and reproducible architecture, enabling:
 
@@ -90,7 +90,7 @@ The project adopts a modular and reproducible architecture, enabling:
 The system design emphasizes open-source technologies, transparency, and experimental validation.
 Academic and Educational Use
 
-This repository may be used for:
+## This repository may be used for:
 
     Undergraduate and graduate research projects
 
@@ -100,7 +100,7 @@ This repository may be used for:
 
     RoboCup@Home training and benchmarking
 
-Ethical Considerations
+## Ethical Considerations
 
 The development and deployment of autonomous robotic systems follow ethical principles such as:
 
@@ -110,7 +110,7 @@ The development and deployment of autonomous robotic systems follow ethical prin
 
     Safety-first design in human environments
 
-Contribution Guidelines
+## Contribution Guidelines
 
 Contributions are welcome from students and researchers.
 
@@ -122,7 +122,7 @@ Contributions are welcome from students and researchers.
 
     Open a Pull Request with proper documentation
 
-Affiliation and Credits
+## Affiliation and Credits
 
 Institution: Universidade Paulista (UNIP)
 Research Group: UNIPDroidians – Robotics and Intelligent Systems
